@@ -47,10 +47,10 @@ export const categories: Category[] = [
   },
   {
     id: "bread",
-    name: "Fayaz Bread",
+    name: "Batuli Bread",
     description: "Fresh bread baked daily",
     icon: "🍞",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+    image: "https://www.acouplecooks.com/wp-content/uploads/2025/01/Homemade-Sandwich-Bread-0008.jpg",
   },
   {
     id: "cakes",
@@ -110,8 +110,8 @@ export const products: Product[] = [
   { id: "jumbo-cookies", name: "Jumbo Cookies", category: "cookies", description: "Extra large cookies", prices: generatePrices(100), image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400" },
   { id: "egg-cookies", name: "Egg Cookies", category: "cookies", description: "Traditional egg cookies", prices: generatePrices(100), image: "https://images.unsplash.com/photo-1618923850107-d1a234d7a73a?w=400" },
 
-  // FAYAZ BREAD
-  { id: "600g-bread", name: "600G Bread", category: "bread", description: "Fresh 600g loaf", prices: generatePrices(100), image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400" },
+  // Batuli BREAD
+  { id: "600g-bread", name: "600G Bread", category: "bread", description: "Fresh 600g loaf", prices: generatePrices(130), image: "https://www.acouplecooks.com/wp-content/uploads/2025/01/Homemade-Sandwich-Bread-0008.jpg" },
   { id: "800g-white-brown-bread", name: "800G White / Brown Bread", category: "bread", description: "White or brown bread loaf", prices: generatePrices(120), image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=400" },
   { id: "400g-white-brown-bread", name: "400G White / Brown Bread", category: "bread", description: "Medium bread loaf", prices: generatePrices(65), image: "https://images.unsplash.com/photo-1598373182133-52452f7691ef?w=400" },
   { id: "200g-white-bread", name: "200G White Bread", category: "bread", description: "Small white bread", prices: generatePrices(35), image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400" },
